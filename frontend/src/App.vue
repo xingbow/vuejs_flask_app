@@ -85,7 +85,7 @@ export default {
 }
 
 .viewbody {
-  height: 610px;
+  height: 650px;
 }
 
 </style>
